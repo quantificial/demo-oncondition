@@ -1,0 +1,4 @@
+environmentBean:
+    enabled: true
+
+conditional: true
